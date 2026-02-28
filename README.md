@@ -51,7 +51,9 @@
 <!-- █  SECTION 2: SUBJECT IDENTITY                        █ -->
 <!-- ████████████████████████████████████████████████████████ -->
 
-## `> SUBJECT IDENTITY — DOSSIER EXTRACT`
+<details open>
+<summary><b>▶ &nbsp; SECTION 02 — SUBJECT IDENTITY &nbsp; [CLICK TO COLLAPSE]</b></summary>
+<br>
 
 ```
 ┌─────────────────────────────────────────────────────────┐
@@ -96,13 +98,17 @@
 
 </div>
 
+</details>
+
 ---
 
 <!-- ████████████████████████████████████████████████████████ -->
 <!-- █  SECTION 3: THREAT CAPABILITY INDEX                 █ -->
 <!-- ████████████████████████████████████████████████████████ -->
 
-## `> THREAT CAPABILITY INDEX — KNOWN ARSENAL`
+<details>
+<summary><b>▶ &nbsp; SECTION 03 — THREAT CAPABILITY INDEX &nbsp; [CLICK TO DECLASSIFY]</b></summary>
+<br>
 
 > Intelligence has cataloged the following technologies in the subject's operational toolkit. Each confirmed through intercepted commit histories, package registries, and deployment artifacts. The breadth of this arsenal suggests a generalist with specialist depth — the most difficult profile to predict.
 
@@ -110,46 +116,58 @@
 
 <div align="center">
 
-### `PRIMARY ARMAMENTS` — Languages & Runtimes
-
+<details>
+<summary><code>PRIMARY ARMAMENTS — Languages & Runtimes</code></summary>
+<br>
 <img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,c,bash&theme=dark&perline=7" alt="Languages" />
-
-<br><br>
-
-### `DEPLOYMENT INFRASTRUCTURE` — Frameworks & Platforms
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi,tailwind,html,css&theme=dark&perline=7" alt="Frameworks" />
-
-<br><br>
-
-### `ADVANCED ORDNANCE` — Cybersecurity & AI
-
-<img src="https://skillicons.dev/icons?i=kali,linux,docker,kubernetes,gcp,aws&theme=dark&perline=7" alt="Security & Cloud" />
+</details>
 
 <br>
 
-![MCP Protocol](https://img.shields.io/badge/MCP_Protocol-0d1117?style=flat-square&logoColor=ff4444&color=0d1117)
-![Claude AI](https://img.shields.io/badge/Claude_AI-0d1117?style=flat-square&logoColor=ff4444&color=0d1117)
-![LLM Integration](https://img.shields.io/badge/LLM_Integration-0d1117?style=flat-square&logoColor=ff4444&color=0d1117)
-![Threat Modeling](https://img.shields.io/badge/Threat_Modeling-0d1117?style=flat-square&logoColor=ff4444&color=0d1117)
+<details>
+<summary><code>DEPLOYMENT INFRASTRUCTURE — Frameworks & Platforms</code></summary>
+<br>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi,tailwind,html,css&theme=dark&perline=7" alt="Frameworks" />
+</details>
+
+<br>
+
+<details>
+<summary><code>ADVANCED ORDNANCE — Cybersecurity & AI</code></summary>
+<br>
+<img src="https://skillicons.dev/icons?i=kali,linux,docker,kubernetes,gcp,aws&theme=dark&perline=7" alt="Security & Cloud" />
+<br><br>
+
+![MCP Protocol](https://img.shields.io/badge/MCP_Protocol-ff4444?style=flat-square&labelColor=0d1117)
+![Claude AI](https://img.shields.io/badge/Claude_AI-ff4444?style=flat-square&labelColor=0d1117)
+![LLM Red-Teaming](https://img.shields.io/badge/LLM_Red--Teaming-ff4444?style=flat-square&labelColor=0d1117)
+![Threat Modeling](https://img.shields.io/badge/Threat_Modeling-ff4444?style=flat-square&labelColor=0d1117)
 ![611+ Skills](https://img.shields.io/badge/611+_Cataloged_Skills-ff4444?style=flat-square&labelColor=0d1117)
+</details>
 
-<br><br>
+<br>
 
-### `SUPPLY CHAIN` — Databases & Tools
-
+<details>
+<summary><code>SUPPLY CHAIN — Databases & Tools</code></summary>
+<br>
 <img src="https://skillicons.dev/icons?i=postgres,mysql,docker,git,npm&theme=dark&perline=5" alt="Databases & Tools" />
+</details>
 
-<br><br>
+<br>
 
-### `SURVEILLANCE EQUIPMENT` — Recon & Fieldwork
+<details>
+<summary><code>SURVEILLANCE EQUIPMENT — Recon & Fieldwork</code></summary>
+<br>
 
-![Street Photography](https://img.shields.io/badge/Street_Photography-0d1117?style=flat-square&color=0d1117)
-![Fujifilm ████](https://img.shields.io/badge/Fujifilm_████-0d1117?style=flat-square&color=0d1117)
-![Adobe Lightroom](https://img.shields.io/badge/Adobe_Lightroom-0d1117?style=flat-square&color=0d1117)
-![Berlin Sector](https://img.shields.io/badge/Berlin_Sector_Coverage-ff4444?style=flat-square&labelColor=0d1117)
+![Street Photography](https://img.shields.io/badge/Street_Photography-ACTIVE-ff4444?style=flat-square&labelColor=0d1117)
+![Fujifilm ████](https://img.shields.io/badge/Camera-Fujifilm_████-ff4444?style=flat-square&labelColor=0d1117)
+![Adobe Lightroom](https://img.shields.io/badge/Adobe_Lightroom-CONFIRMED-ff4444?style=flat-square&labelColor=0d1117)
+![Berlin Sector](https://img.shields.io/badge/Coverage-Berlin_All_Districts-ff4444?style=flat-square&labelColor=0d1117)
+</details>
 
 </div>
+
+</details>
 
 ---
 
@@ -157,7 +175,9 @@
 <!-- █  SECTION 4: ACTIVE OPERATIONS                       █ -->
 <!-- ████████████████████████████████████████████████████████ -->
 
-## `> ACTIVE OPERATIONS — FIELD REPORT`
+<details>
+<summary><b>▶ &nbsp; SECTION 04 — ACTIVE OPERATIONS &nbsp; [CLICK TO DECLASSIFY]</b></summary>
+<br>
 
 > The following operations have been attributed to the subject with high confidence. Each represents a distinct campaign with measurable impact. Sorted by assessed threat level.
 
@@ -289,13 +309,17 @@
 
 </details>
 
+</details>
+
 ---
 
 <!-- ████████████████████████████████████████████████████████ -->
 <!-- █  SECTION 5: INTERCEPTED COMMUNICATIONS               █ -->
 <!-- ████████████████████████████████████████████████████████ -->
 
-## `> INTERCEPTED COMMUNICATIONS — ACADEMIC CHANNELS`
+<details>
+<summary><b>▶ &nbsp; SECTION 05 — INTERCEPTED COMMUNICATIONS &nbsp; [CLICK TO DECLASSIFY]</b></summary>
+<br>
 
 > The following publications were intercepted through academic monitoring channels. Both are peer-reviewed, indicating the subject has been vetted by domain experts and granted access to formal research networks. ORCID tracking confirms identity linkage.
 
@@ -338,13 +362,17 @@
 
 </div>
 
+</details>
+
 ---
 
 <!-- ████████████████████████████████████████████████████████ -->
 <!-- █  SECTION 6: FIELD SURVEILLANCE — BERLIN              █ -->
 <!-- ████████████████████████████████████████████████████████ -->
 
-## `> FIELD SURVEILLANCE LOG — BERLIN SECTOR`
+<details>
+<summary><b>▶ &nbsp; SECTION 06 — FIELD SURVEILLANCE LOG: BERLIN SECTOR &nbsp; [CLICK TO DECLASSIFY]</b></summary>
+<br>
 
 > Subject has been observed conducting extensive fieldwork across Berlin under the cover designation "street photography." Analysis of captured imagery reveals advanced compositional awareness, pattern recognition in urban environments, and an eye trained to isolate subjects from noise. These are not the habits of a casual photographer. These are the instincts of someone who watches.
 >
@@ -352,10 +380,7 @@
 > Coverage area: Berlin metropolitan sector — all districts.
 > Assessment: The same precision applied to code is applied to the frame. Recommend cross-referencing visual output with known reconnaissance patterns.
 
-<div align="center">
-
-
-</div>
+</details>
 
 ---
 
@@ -363,30 +388,15 @@
 <!-- █  SECTION 7: OPERATIONAL METRICS                      █ -->
 <!-- ████████████████████████████████████████████████████████ -->
 
-## `> OPERATIONAL METRICS — ACTIVITY SURVEILLANCE`
+<details>
+<summary><b>▶ &nbsp; SECTION 07 — OPERATIONAL METRICS &nbsp; [CLICK TO DECLASSIFY]</b></summary>
+<br>
 
 > The following metrics were compiled from continuous monitoring of the subject's public GitHub activity. All figures verified as of last intelligence cycle.
 
 <br>
 
 <div align="center">
-
-<table>
-<tr>
-<td width="50%" align="center">
-
-<img src="https://github-readme-stats-fast.vercel.app/api?username=mukul975&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=ff4444&icon_color=ff4444" alt="GitHub Stats" width="400" />
-
-</td>
-<td width="50%" align="center">
-
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mukul975&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117&title_color=ff4444" alt="Top Languages" width="400" />
-
-</td>
-</tr>
-</table>
-
-<br>
 
 <img src="https://streak-stats.demolab.com/?user=mukul975&theme=tokyonight&hide_border=true&background=0d1117&ring=ff4444&fire=ff4444&currStreakLabel=ff4444" alt="GitHub Streak" width="500" />
 
@@ -400,13 +410,17 @@
 
 > **AGGREGATE ASSESSMENT:** 44 confirmed assets (stars) · 18 forks propagated · 25 known repositories · Contribution pattern indicates sustained, disciplined output with no signs of deceleration. The subject does not take breaks. He takes positions.
 
+</details>
+
 ---
 
 <!-- ████████████████████████████████████████████████████████ -->
 <!-- █  SECTION 8: EVIDENCE TRACKER                         █ -->
 <!-- ████████████████████████████████████████████████████████ -->
 
-## `> EVIDENCE TRACKER — CONTRIBUTION SURVEILLANCE`
+<details>
+<summary><b>▶ &nbsp; SECTION 08 — EVIDENCE TRACKER &nbsp; [CLICK TO DECLASSIFY]</b></summary>
+<br>
 
 <div align="center">
 
@@ -421,6 +435,8 @@
 </picture>
 
 </div>
+
+</details>
 
 ---
 
@@ -467,9 +483,7 @@
 [![Website](https://img.shields.io/badge/mahipal.engineer-0d1117?style=for-the-badge&logo=googlechrome&logoColor=ff4444)](https://mahipal.engineer)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-mukul975-0d1117?style=for-the-badge&logo=github&logoColor=ff4444)](https://github.com/mukul975)
-
-<br>
-
+&nbsp;
 [![Calendly](https://img.shields.io/badge/Schedule_Briefing-0d1117?style=for-the-badge&logo=calendly&logoColor=ff4444)](https://calendly.com/mukuljangra5)
 &nbsp;
 [![ORCID](https://img.shields.io/badge/ORCID_Research-0d1117?style=for-the-badge&logo=orcid&logoColor=ff4444)](https://orcid.org/0009-0003-4474-946X)
