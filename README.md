@@ -1,430 +1,348 @@
-<!-- ██████████████████████████████████████████████████████████████████████████████ -->
-<!-- █  INTERPOL CYBERCRIME DIRECTORATE — CLASSIFIED DOSSIER                    █ -->
-<!-- █  FILE NO: IC-2025-MJ-0975                                               █ -->
-<!-- █  CLEARANCE: LEVEL ████                                                   █ -->
-<!-- █  WARNING: Unauthorized access will be logged and reported.               █ -->
-<!-- ██████████████████████████████████████████████████████████████████████████████ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- SIGNAL TRANSMISSION // DARK FREQUENCY                                     -->
+<!-- FREQUENCY 975.MHz // BERLIN // ACTIVE                                     -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-![CLASSIFIED — INTERPOL CYBER DIVISION](https://capsule-render.vercel.app/api?type=shark&color=0:0d1117,100:8b0000&height=200&section=header&text=CLASSIFIED%20%E2%80%94%20INTERPOL%20CYBER%20DIVISION&fontSize=36&fontColor=ff4444&fontAlignY=65&animation=fadeIn)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:7c3aed,100:00d4ff&height=250&section=header&text=SIGNAL%20INTERCEPTED&fontSize=50&fontColor=00d4ff&fontAlignY=40&desc=FREQUENCY%20975.MHz%20//%20BERLIN&descSize=18&descColor=7c3aed&descAlignY=60&animation=twinkling" width="100%"/>
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=600&color=FF4444&center=true&vCenter=true&width=720&height=50&lines=CLEARANCE+LEVEL%3A+DECLASSIFIED;SUBJECT%3A+MAHIPAL+JANGRA+%40+BERLIN;SPECIALIZATION%3A+CYBER+OPERATIONS+%2B+AI+SECURITY;STATUS%3A+ACTIVE+%E2%80%94+AVAILABLE+FOR+ENGAGEMENT)](https://mahipal.engineer)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=100&lines=SIGNAL+INTERCEPTED+//+FREQUENCY+975.MHz;DECODING+TRANSMISSION+FROM+BERLIN...;SOURCE+IDENTIFIED:+MAHIPAL+JANGRA;SIGNAL+CLARITY:+MAXIMUM+//+LOCKED+ON)](https://mahipal.engineer)
 
 <br>
 
-[![File Accesses](https://komarev.com/ghpvc/?username=mukul975&style=for-the-badge&color=ff4444&label=FILE+ACCESSES&labelColor=0d1117)](https://github.com/mukul975)
+```
+You've intercepted a signal. It's broadcasting from Berlin.
+Scroll to decode.
+```
+
+<br>
+
+[![Signals Received](https://komarev.com/ghpvc/?username=mukul975&style=for-the-badge&color=00d4ff&label=SIGNALS+RECEIVED&labelColor=0a0a0a)](https://github.com/mukul975)
 &nbsp;
-![Classification](https://img.shields.io/badge/CLASSIFICATION-TOP%20SECRET-ff4444?style=for-the-badge&labelColor=0d1117)
+![Frequency](https://img.shields.io/badge/FREQUENCY-975.MHz-00d4ff?style=for-the-badge&labelColor=0a0a0a)
 &nbsp;
-![Status](https://img.shields.io/badge/STATUS-ACTIVE-ff4444?style=for-the-badge&labelColor=0d1117)
+![Status](https://img.shields.io/badge/STATUS-BROADCASTING-00ff87?style=for-the-badge&labelColor=0a0a0a)
 &nbsp;
-![Directive](https://img.shields.io/badge/DIRECTIVE-EYES%20ONLY-ff4444?style=for-the-badge&labelColor=0d1117)
+![Origin](https://img.shields.io/badge/ORIGIN-BERLIN-7c3aed?style=for-the-badge&labelColor=0a0a0a)
 
 </div>
 
-<br>
-
-```
-██████████████████████████████████████████████████████████
-█                                                        █
-█   INTERPOL CYBERCRIME DIRECTORATE                      █
-█   DIGITAL FORENSICS & THREAT INTELLIGENCE DIVISION     █
-█                                                        █
-█   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   █
-█   ▓  CLASSIFIED DOSSIER — EYES ONLY                ▓   █
-█   ▓  FILE NO: IC-2025-MJ-0975                      ▓   █
-█   ▓  CLEARANCE: LEVEL ████                         ▓   █
-█   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   █
-█                                                        █
-██████████████████████████████████████████████████████████
-```
-
-> **SUBJECT OF INTEREST — ACTIVE FILE**
-> This individual has been flagged for sustained, high-output operations across multiple digital theaters. Approach with professional curiosity. Do not underestimate.
-
 ---
 
-<!-- ████████████████████████████████████████████████████████ -->
-<!-- █  SECTION 2: SUBJECT IDENTITY                        █ -->
-<!-- ████████████████████████████████████████████████████████ -->
+## `> FREQ BAND 01 // SIGNAL SOURCE`
 
-<details open>
-<summary><b>▶ &nbsp; SECTION 02 — SUBJECT IDENTITY &nbsp; [CLICK TO COLLAPSE]</b></summary>
+> Transmission origin decoded. Signal metadata extracted. Identity confirmed.
+
 <br>
-
-```
-┌─────────────────────────────────────────────────────────┐
-│  SUBJECT IDENTITY                                       │
-├─────────────────────────────────────────────────────────┤
-│                                                         │
-│  DESIGNATED NAME:    Mahipal Jangra                     │
-│  CALLSIGN:           mukul975                           │
-│  NATIONALITY:        Indian ████████                    │
-│  CURRENT LOCATION:   Berlin, Germany                    │
-│  STATUS:             ACTIVE — NOT CONTAINED             │
-│                                                         │
-│  EDUCATION:                                             │
-│  MSc Computer Science (Cybersecurity)                   │
-│  SRH Berlin University of Applied Sciences              │
-│  STATUS: COMPLETED                                      │
-│                                                         │
-│  ORCID:              0009-0003-4474-946X                │
-│  CONTACT INTERCEPT:  contact@mahipal.engineer           │
-│                                                         │
-│  ANALYST NOTE:                                          │
-│  Subject operates from Berlin sector. Indian-origin     │
-│  engineer with advanced credentials in cybersecurity.   │
-│  Known to build autonomous toolkits capable of          │
-│  large-scale system control. Also conducts field        │
-│  reconnaissance under cover of "street photography."    │
-│  Classification: Threat Level — Intellectually          │
-│  Dangerous. Recommend continued monitoring.             │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
-```
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mahipal975-0d1117?style=for-the-badge&logo=linkedin&logoColor=ff4444)](https://www.linkedin.com/in/mahipal975/)
+```
+TRANSMISSION ORIGIN DECODED
+
+Callsign .............. mukul975
+Identity .............. Mahipal Jangra
+Broadcast Origin ...... Berlin, Germany
+Signal Path ........... India → Berlin → The Internet
+Clearance ............. MSc Computer Science (Cybersecurity) // SRH Berlin // COMPLETED
+Registry .............. ORCID 0009-0003-4474-946X
+Primary Frequency ..... contact@mahipal.engineer
+Status ................ ACTIVE // HIREABLE
+```
+
+<br>
+
+> *This signal builds secure systems. It breaks the ones that aren't.*
+>
+> *AI Security Researcher and Front-End Engineer — operating at the intersection of threat intelligence and immersive web interfaces. Every project is threat-modeled, OWASP-aware, and built to last.*
+>
+> *The signal doesn't boast. It ships.*
+
+<br>
+
+### `COMMUNICATION CHANNELS DETECTED`
+
+<br>
+
+[![Website](https://img.shields.io/badge/mahipal.engineer-CONFIRMED-0a0a0a?style=for-the-badge&logo=googlechrome&logoColor=00d4ff)](https://mahipal.engineer)
 &nbsp;
-[![Email](https://img.shields.io/badge/contact%40mahipal.engineer-0d1117?style=for-the-badge&logo=gmail&logoColor=ff4444)](mailto:contact@mahipal.engineer)
+[![LinkedIn](https://img.shields.io/badge/linkedin/mahipal975-CONFIRMED-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=00d4ff)](https://www.linkedin.com/in/mahipal975/)
 &nbsp;
-[![Website](https://img.shields.io/badge/mahipal.engineer-0d1117?style=for-the-badge&logo=googlechrome&logoColor=ff4444)](https://mahipal.engineer)
+[![Email](https://img.shields.io/badge/contact@mahipal.engineer-OPEN-0a0a0a?style=for-the-badge&logo=gmail&logoColor=00d4ff)](mailto:contact@mahipal.engineer)
 &nbsp;
-[![ORCID](https://img.shields.io/badge/ORCID_Research-0d1117?style=for-the-badge&logo=orcid&logoColor=ff4444)](https://orcid.org/0009-0003-4474-946X)
+[![Calendly](https://img.shields.io/badge/Schedule-AVAILABLE-0a0a0a?style=for-the-badge&logo=calendly&logoColor=00d4ff)](https://calendly.com/mukuljangra5)
+&nbsp;
+[![ORCID](https://img.shields.io/badge/ORCID_Research-CONFIRMED-0a0a0a?style=for-the-badge&logo=orcid&logoColor=00d4ff)](https://orcid.org/0009-0003-4474-946X)
 
 </div>
 
-</details>
-
 ---
 
-<!-- ████████████████████████████████████████████████████████ -->
-<!-- █  SECTION 3: THREAT CAPABILITY INDEX                 █ -->
-<!-- ████████████████████████████████████████████████████████ -->
+## `> FREQ BAND 02 // SIGNAL SPECTRUM`
 
-<details>
-<summary><b>▶ &nbsp; SECTION 03 — THREAT CAPABILITY INDEX &nbsp; [CLICK TO DECLASSIFY]</b></summary>
-<br>
-
-> Intelligence has cataloged the following technologies in the subject's operational toolkit. Each confirmed through intercepted commit histories, package registries, and deployment artifacts. The breadth of this arsenal suggests a generalist with specialist depth — the most difficult profile to predict.
+> Analyzing embedded wavelengths. The signal carries multiple bands — each one a different capability, a different weapon in the arsenal. Total spectrum width: 611+ discrete skills across 25 categories. Decoding now.
 
 <br>
 
 <div align="center">
 
-<details>
-<summary><code>PRIMARY ARMAMENTS — Languages & Runtimes</code></summary>
-<br>
-<img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,c,bash&theme=dark&perline=7" alt="Languages" />
-</details>
+### `BAND A // CORE WAVELENGTHS`
 
-<br>
+<img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,c,bash&theme=dark&perline=7" alt="Core Languages" />
 
-<details>
-<summary><code>DEPLOYMENT INFRASTRUCTURE — Frameworks & Platforms</code></summary>
-<br>
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi,tailwind,html,css&theme=dark&perline=7" alt="Frameworks" />
-</details>
-
-<br>
-
-<details>
-<summary><code>ADVANCED ORDNANCE — Cybersecurity & AI</code></summary>
-<br>
-<img src="https://skillicons.dev/icons?i=kali,linux,docker,kubernetes,gcp,aws&theme=dark&perline=7" alt="Security & Cloud" />
 <br><br>
 
-![MCP Protocol](https://img.shields.io/badge/MCP_Protocol-ff4444?style=flat-square&labelColor=0d1117)
-![Claude AI](https://img.shields.io/badge/Claude_AI-ff4444?style=flat-square&labelColor=0d1117)
-![LLM Red-Teaming](https://img.shields.io/badge/LLM_Red--Teaming-ff4444?style=flat-square&labelColor=0d1117)
-![Threat Modeling](https://img.shields.io/badge/Threat_Modeling-ff4444?style=flat-square&labelColor=0d1117)
-![611+ Skills](https://img.shields.io/badge/611+_Cataloged_Skills-ff4444?style=flat-square&labelColor=0d1117)
-</details>
+### `BAND B // INTERFACE FREQUENCIES`
 
-<br>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi,tailwind,html,css&theme=dark&perline=7" alt="Frameworks" />
 
-<details>
-<summary><code>SUPPLY CHAIN — Databases & Tools</code></summary>
-<br>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,docker,git,npm&theme=dark&perline=5" alt="Databases & Tools" />
-</details>
+<br><br>
 
-<br>
+### `BAND C // DEFENSE SPECTRUM`
 
-<details>
-<summary><code>SURVEILLANCE EQUIPMENT — Recon & Fieldwork</code></summary>
-<br>
+<img src="https://skillicons.dev/icons?i=kali,linux,docker,kubernetes,gcp,aws&theme=dark&perline=6" alt="Security and Cloud" />
 
-![Street Photography](https://img.shields.io/badge/Street_Photography-ACTIVE-ff4444?style=flat-square&labelColor=0d1117)
-![Fujifilm ████](https://img.shields.io/badge/Camera-Fujifilm_████-ff4444?style=flat-square&labelColor=0d1117)
-![Adobe Lightroom](https://img.shields.io/badge/Adobe_Lightroom-CONFIRMED-ff4444?style=flat-square&labelColor=0d1117)
-![Berlin Sector](https://img.shields.io/badge/Coverage-Berlin_All_Districts-ff4444?style=flat-square&labelColor=0d1117)
-</details>
+<br><br>
+
+### `BAND D // PROTOCOL LAYER`
+
+![MCP Protocol](https://img.shields.io/badge/MCP_Protocol-00d4ff?style=flat-square&labelColor=0a0a0a)
+![Claude AI](https://img.shields.io/badge/Claude_AI-00d4ff?style=flat-square&labelColor=0a0a0a)
+![LLM Red-Teaming](https://img.shields.io/badge/LLM_Red--Teaming-7c3aed?style=flat-square&labelColor=0a0a0a)
+![Threat Modeling](https://img.shields.io/badge/Threat_Modeling-7c3aed?style=flat-square&labelColor=0a0a0a)
+![MCP Pioneer](https://img.shields.io/badge/MCP_PIONEER-3+_Servers_Built-00d4ff?style=flat-square&labelColor=0a0a0a)
+![438+ Tools](https://img.shields.io/badge/438+_Tools_Deployed-00ff87?style=flat-square&labelColor=0a0a0a)
+
+<br><br>
+
+### `BAND E // DATA INFRASTRUCTURE`
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,docker,git,npm&theme=dark&perline=5" alt="Data and Tools" />
+
+<br><br>
+
+![611+ Skills](https://img.shields.io/badge/611+_Skills_Cataloged-00ff87?style=flat-square&labelColor=0a0a0a)
+![LLM Red Team](https://img.shields.io/badge/LLM_RED_TEAM-Offense_Meets_Defense-7c3aed?style=flat-square&labelColor=0a0a0a)
+
+<br><br>
+
+### `GHOST SIGNAL DETECTED // BAND F — NON-TECHNICAL`
+
+> *ANOMALOUS FREQUENCY DETECTED*
+>
+> *Street Photography // Berlin // Adobe Lightroom*
+> *The same eye that finds vulnerabilities finds compositions. Pattern recognition doesn't clock out.*
+
+![Street Photography](https://img.shields.io/badge/Street_Photography-GHOST_SIGNAL-7c3aed?style=flat-square&labelColor=0a0a0a)
+![Adobe Lightroom](https://img.shields.io/badge/Adobe_Lightroom-CONFIRMED-00d4ff?style=flat-square&labelColor=0a0a0a)
+![Berlin Coverage](https://img.shields.io/badge/Coverage-Berlin_All_Districts-7c3aed?style=flat-square&labelColor=0a0a0a)
 
 </div>
 
-</details>
-
 ---
 
-<!-- ████████████████████████████████████████████████████████ -->
-<!-- █  SECTION 4: ACTIVE OPERATIONS                       █ -->
-<!-- ████████████████████████████████████████████████████████ -->
+## `> FREQ BAND 03 // TRANSMISSIONS DECODED`
 
-<details>
-<summary><b>▶ &nbsp; SECTION 04 — ACTIVE OPERATIONS &nbsp; [CLICK TO DECLASSIFY]</b></summary>
+> Six transmissions intercepted from this source. Each one decoded. Each one operational.
+
 <br>
-
-> The following operations have been attributed to the subject with high confidence. Each represents a distinct campaign with measurable impact. Sorted by assessed threat level.
-
----
-
-<details>
-<summary><b>OPERATION: WINDOWS DOMINION</b> — <code>mcp-windows-automation</code> &nbsp; <img src="https://img.shields.io/badge/THREAT-CRITICAL-ff0000?style=flat-square&labelColor=0d1117" alt="CRITICAL" /></summary>
-<br>
-
-| FIELD | DETAIL |
-|:---|:---|
-| **OBJECTIVE** | Grant AI systems full autonomous control over Windows environments via natural language commands. 200+ tools. No GUI required. |
-| **STATUS** | ACTIVE — 13 confirmed assets (stars), 4 known forks in the wild |
-| **THREAT LEVEL** | `██████████` CRITICAL |
-| **ANALYST NOTE** | This is the subject's most dangerous toolkit. A single natural language instruction can trigger file operations, system configurations, and process control across an entire Windows machine. If paired with a sufficiently capable LLM, the automation potential is near-total. We have no equivalent in our own arsenal. |
 
 <div align="center">
-
-[![Repo](https://img.shields.io/badge/ACCESS_OPERATION-mcp--windows--automation-ff4444?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/mukul975/mcp-windows-automation)
-
-</div>
-
-</details>
-
----
-
-<details>
-<summary><b>OPERATION: DIGITAL FRONT</b> — <code>Portfolio-v2</code> &nbsp; <img src="https://img.shields.io/badge/THREAT-HIGH-ff4444?style=flat-square&labelColor=0d1117" alt="HIGH" /></summary>
-<br>
-
-| FIELD | DETAIL |
-|:---|:---|
-| **OBJECTIVE** | Public-facing identity asset. Multilingual portfolio with Anime.js-driven animations. Functions as both recruitment signal and capability showcase. |
-| **STATUS** | DEPLOYED — 18 assets, 6 forks |
-| **THREAT LEVEL** | `████████░░` HIGH |
-| **ANALYST NOTE** | Most individual operators do not invest in presentation at this level. The multilingual support and animation quality suggest the subject treats public perception as an operational concern. This is not vanity — it is tradecraft. |
-
-<div align="center">
-
-[![Repo](https://img.shields.io/badge/ACCESS_OPERATION-Portfolio--v2-ff4444?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/mukul975/Portfolio-v2)
-
-</div>
-
-</details>
-
----
-
-<details>
-<summary><b>OPERATION: COMMAND CENTER</b> — <code>claude-team-dashboard</code> &nbsp; <img src="https://img.shields.io/badge/THREAT-HIGH-ff4444?style=flat-square&labelColor=0d1117" alt="HIGH" /></summary>
-<br>
-
-| FIELD | DETAIL |
-|:---|:---|
-| **OBJECTIVE** | Real-time monitoring dashboard for AI agent teams. React 19.2. 223 verified test cases. Security-audited by a 6-specialist team. |
-| **STATUS** | OPERATIONAL — 4 stars, 6 forks |
-| **THREAT LEVEL** | `████████░░` HIGH |
-| **ANALYST NOTE** | The subject built a command-and-control interface for AI agents and then had it audited by six security specialists. This is not a hobbyist. This is operational discipline. 223 tests means this system was built to survive adversarial conditions. |
-
-<div align="center">
-
-[![Repo](https://img.shields.io/badge/ACCESS_OPERATION-claude--team--dashboard-ff4444?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/mukul975/claude-team-dashboard)
-
-</div>
-
-</details>
-
----
-
-<details>
-<summary><b>OPERATION: WEB HARVEST</b> — <code>mcp-web-scrape</code> &nbsp; <img src="https://img.shields.io/badge/THREAT-ELEVATED-ff6600?style=flat-square&labelColor=0d1117" alt="ELEVATED" /></summary>
-<br>
-
-| FIELD | DETAIL |
-|:---|:---|
-| **OBJECTIVE** | 40+ web scraping tools packaged as an MCP server. TypeScript. Published to npm as v1.0.7. Designed for AI-driven data extraction at scale. |
-| **STATUS** | DISTRIBUTED — 4 stars, npm public registry |
-| **THREAT LEVEL** | `███████░░░` ELEVATED |
-| **ANALYST NOTE** | Published on npm means this toolkit is already in circulation. Any AI agent with MCP capability can now acquire web scraping powers with a single install command. The subject is not just building tools — he is distributing them. |
-
-<div align="center">
-
-[![Repo](https://img.shields.io/badge/ACCESS_OPERATION-mcp--web--scrape-ff4444?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/mukul975/mcp-web-scrape)
-
-</div>
-
-</details>
-
----
-
-<details>
-<summary><b>OPERATION: SKILL CODEX</b> — <code>Anthropic-Cybersecurity-Skills</code> &nbsp; <img src="https://img.shields.io/badge/THREAT-ELEVATED-ff6600?style=flat-square&labelColor=0d1117" alt="ELEVATED" /></summary>
-<br>
-
-| FIELD | DETAIL |
-|:---|:---|
-| **OBJECTIVE** | A systematic catalog of 611+ cybersecurity skills across 25 categories. Apache 2.0 licensed. Compatible with 26+ AI platforms. |
-| **STATUS** | OPEN SOURCE — freely available |
-| **THREAT LEVEL** | `███████░░░` ELEVATED |
-| **ANALYST NOTE** | This is effectively a training manual for AI systems to develop cybersecurity competence. 611 skills. 25 categories. Cross-platform. The subject has open-sourced the playbook. Anyone with an LLM can now access a structured cybersecurity curriculum. The implications are ████████. |
-
-<div align="center">
-
-[![Repo](https://img.shields.io/badge/ACCESS_OPERATION-Anthropic--Cybersecurity--Skills-ff4444?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)
-
-</div>
-
-</details>
-
----
-
-<details>
-<summary><b>OPERATION: DATA VAULTS</b> — <code>postgres-mcp-server</code> + <code>mysql-mcp-server</code> &nbsp; <img src="https://img.shields.io/badge/THREAT-MODERATE--HIGH-ff8800?style=flat-square&labelColor=0d1117" alt="MODERATE-HIGH" /></summary>
-<br>
-
-| FIELD | DETAIL |
-|:---|:---|
-| **OBJECTIVE** | MCP servers granting AI agents direct database access. 238 tools for PostgreSQL. Comprehensive MySQL coverage. |
-| **STATUS** | ACTIVE — combined 2 stars, 2 forks |
-| **THREAT LEVEL** | `██████░░░░` MODERATE-HIGH |
-| **ANALYST NOTE** | The subject is systematically removing every barrier between AI agents and critical infrastructure. First Windows. Then the web. Now databases. The pattern is unmistakable: total AI autonomy across all system layers. |
-
-<div align="center">
-
-[![PostgreSQL](https://img.shields.io/badge/ACCESS_OPERATION-postgres--mcp--server-ff4444?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/mukul975/postgres-mcp-server)
-&nbsp;
-[![MySQL](https://img.shields.io/badge/ACCESS_OPERATION-mysql--mcp--server-ff4444?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/mukul975/mysql-mcp-server)
-
-</div>
-
-</details>
-
-</details>
-
----
-
-<!-- ████████████████████████████████████████████████████████ -->
-<!-- █  SECTION 5: INTERCEPTED COMMUNICATIONS               █ -->
-<!-- ████████████████████████████████████████████████████████ -->
-
-<details>
-<summary><b>▶ &nbsp; SECTION 05 — INTERCEPTED COMMUNICATIONS &nbsp; [CLICK TO DECLASSIFY]</b></summary>
-<br>
-
-> The following publications were intercepted through academic monitoring channels. Both are peer-reviewed, indicating the subject has been vetted by domain experts and granted access to formal research networks. ORCID tracking confirms identity linkage.
-
-<br>
 
 <table>
 <tr>
-<td>
+<td align="center" width="50%">
 
-### INTERCEPT #1
+### `TRANSMISSION 01 // DECODED`
 
-| FIELD | DETAIL |
-|:---|:---|
-| **SOURCE** | Springer — Lecture Notes in Networks and Systems (2022) |
-| **CLASSIFICATION** | Conference Proceedings — Peer Reviewed |
-| **CONTENT SUMMARY** | ████████████ research contribution to ████ networks and systems. Exact methodology classified pending further analysis. |
-| **ASSESSMENT** | Subject demonstrated research capability early in academic career. Springer acceptance confirms baseline credibility in the research community. |
+**MCP-WINDOWS-AUTOMATION**
+
+Full system control through natural language.
+200+ automation tools. One protocol. Zero GUI required.
+The machine does what you say — literally.
+
+`SIGNAL STRENGTH: ★ 13` // `FORKS: 4` // `STATUS: ACTIVE`
+
+[![Access](https://img.shields.io/badge/ACCESS_SIGNAL-mcp--windows--automation-00d4ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a)](https://github.com/mukul975/mcp-windows-automation)
+
+</td>
+<td align="center" width="50%">
+
+### `TRANSMISSION 02 // DECODED`
+
+**PORTFOLIO-V2**
+
+The identity broadcast. Multilingual. Anime.js-powered.
+Not a template — an experience. This is what the source
+looks like when it decides to be seen.
+
+`SIGNAL STRENGTH: ★ 18` // `FORKS: 6` // `STATUS: LIVE`
+
+[![Access](https://img.shields.io/badge/ACCESS_SIGNAL-Portfolio--v2-00d4ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a)](https://github.com/mukul975/Portfolio-v2)
 
 </td>
 </tr>
 <tr>
-<td>
+<td align="center" width="50%">
 
-### INTERCEPT #2
+### `TRANSMISSION 03 // DECODED`
 
-| FIELD | DETAIL |
-|:---|:---|
-| **SOURCE** | IS&T Electronic Imaging (2025) — MOBMU-312 |
-| **CLASSIFICATION** | Conference Paper — Peer Reviewed |
-| **CONTENT SUMMARY** | Study involving 68 human participants. Statistical modeling achieved R²=0.46. Research intersects imaging science and human perception. |
-| **ASSESSMENT** | The subject moved from pure cybersecurity into imaging and perception research. 68 participants suggests IRB-approved human subjects research. R²=0.46 on a perceptual study is a respectable fit. This individual is not confined to one domain — he crosses boundaries. That makes him harder to profile. |
+**CLAUDE-TEAM-DASHBOARD**
+
+AI command and control. Real-time monitoring for
+multi-agent teams that were flying blind.
+223 tests. Full visibility. No dead zones.
+
+`SIGNAL STRENGTH: ★ 4` // `FORKS: 6` // `STATUS: ACTIVE`
+
+[![Access](https://img.shields.io/badge/ACCESS_SIGNAL-claude--team--dashboard-00d4ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a)](https://github.com/mukul975/claude-team-dashboard)
+
+</td>
+<td align="center" width="50%">
+
+### `TRANSMISSION 04 // DECODED`
+
+**MCP-WEB-SCRAPE**
+
+Web intelligence extraction. Clean, cache-aware,
+built for AI agents that need to read the internet.
+TypeScript. Available on npm. Plug in and scrape.
+
+`SIGNAL STRENGTH: ★ 4` // `STATUS: PUBLISHED ON NPM`
+
+[![Access](https://img.shields.io/badge/ACCESS_SIGNAL-mcp--web--scrape-00d4ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a)](https://github.com/mukul975/mcp-web-scrape)
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+### `TRANSMISSION 05 // DECODED`
+
+**ANTHROPIC-CYBERSECURITY-SKILLS**
+
+The entire playbook, open source. 611+ cybersecurity
+skills across 25 categories. Not a checklist —
+a curriculum for machines that need to think about defense.
+
+`SIGNAL STRENGTH: ★ 2` // `CATEGORIES: 25` // `STATUS: OPEN SOURCE`
+
+[![Access](https://img.shields.io/badge/ACCESS_SIGNAL-Anthropic--Cybersecurity--Skills-00d4ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a)](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)
+
+</td>
+<td align="center" width="50%">
+
+### `TRANSMISSION 06 // DECODED`
+
+**DATABASE NEURAL LINK**
+
+PostgreSQL: 237+ tools. MySQL: 200+ tools.
+Direct database access for AI agents. No ORM.
+No abstraction layer. Raw queries. Full control.
+
+`COMBINED TOOLS: 438+` // `STATUS: OPERATIONAL`
+
+[![PostgreSQL](https://img.shields.io/badge/ACCESS-postgres--mcp--server-00d4ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a)](https://github.com/mukul975/postgres-mcp-server)
+[![MySQL](https://img.shields.io/badge/ACCESS-mysql--mcp--server-7c3aed?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a)](https://github.com/mukul975/mysql-mcp-server)
 
 </td>
 </tr>
 </table>
 
+</div>
+
+---
+
+## `> FREQ BAND 04 // ARCHIVED SIGNALS`
+
+> Previously captured transmissions. Peer-reviewed. Published. Permanent record.
+
+<br>
+
 <div align="center">
 
-[![ORCID](https://img.shields.io/badge/ORCID_TRACKING-0009--0003--4474--946X-ff4444?style=for-the-badge&logo=orcid&logoColor=white&labelColor=0d1117)](https://orcid.org/0009-0003-4474-946X)
+<table>
+<tr>
+<td align="center">
+
+### `INTERCEPT 001 // 2022`
+
+**Springer LNNS — Lecture Notes in Networks and Systems**
+
+First detected signal from this source in academic channels.
+Peer-reviewed. Indexed. The research began here.
+
+![Archive](https://img.shields.io/badge/ARCHIVE-SPRINGER-00d4ff?style=flat-square&labelColor=0a0a0a)
+![Status](https://img.shields.io/badge/STATUS-PUBLISHED-00ff87?style=flat-square&labelColor=0a0a0a)
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+### `INTERCEPT 002 // 2025`
+
+**IS&T Electronic Imaging — Human Vision and Electronic Imaging**
+
+Most recent academic intercept. 68 participants.
+Regression coefficient R² = 0.46. Quantifying how humans
+perceive what machines generate.
+
+![Archive](https://img.shields.io/badge/ARCHIVE-IS&T-00d4ff?style=flat-square&labelColor=0a0a0a)
+![Status](https://img.shields.io/badge/STATUS-PUBLISHED-00ff87?style=flat-square&labelColor=0a0a0a)
+![Paper](https://img.shields.io/badge/PAPER-MOBMU--312-7c3aed?style=flat-square&labelColor=0a0a0a)
+
+</td>
+</tr>
+</table>
+
+<br>
+
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0003--4474--946X-00d4ff?style=for-the-badge&logo=orcid&logoColor=white&labelColor=0a0a0a)](https://orcid.org/0009-0003-4474-946X)
 
 </div>
 
-</details>
-
 ---
 
-<!-- ████████████████████████████████████████████████████████ -->
-<!-- █  SECTION 6: FIELD SURVEILLANCE — BERLIN              █ -->
-<!-- ████████████████████████████████████████████████████████ -->
+## `> FREQ BAND 05 // SIGNAL STRENGTH`
 
-<details>
-<summary><b>▶ &nbsp; SECTION 06 — FIELD SURVEILLANCE LOG: BERLIN SECTOR &nbsp; [CLICK TO DECLASSIFY]</b></summary>
-<br>
-
-> Subject has been observed conducting extensive fieldwork across Berlin under the cover designation "street photography." Analysis of captured imagery reveals advanced compositional awareness, pattern recognition in urban environments, and an eye trained to isolate subjects from noise. These are not the habits of a casual photographer. These are the instincts of someone who watches.
->
-> Equipment: ████████ series camera. Processing via Adobe Lightroom.
-> Coverage area: Berlin metropolitan sector — all districts.
-> Assessment: The same precision applied to code is applied to the frame. Recommend cross-referencing visual output with known reconnaissance patterns.
-
-</details>
-
----
-
-<!-- ████████████████████████████████████████████████████████ -->
-<!-- █  SECTION 7: OPERATIONAL METRICS                      █ -->
-<!-- ████████████████████████████████████████████████████████ -->
-
-<details>
-<summary><b>▶ &nbsp; SECTION 07 — OPERATIONAL METRICS &nbsp; [CLICK TO DECLASSIFY]</b></summary>
-<br>
-
-> The following metrics were compiled from continuous monitoring of the subject's public GitHub activity. All figures verified as of last intelligence cycle.
+> Raw metrics from the source. No filters. No inflation. Seven years of consistent transmission since August 2018.
 
 <br>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=mukul975&theme=tokyonight&hide_border=true&background=0d1117&ring=ff4444&fire=ff4444&currStreakLabel=ff4444" alt="GitHub Streak" width="500" />
+![44 Stars](https://img.shields.io/badge/44_STARS-RECEIVED-00d4ff?style=for-the-badge&labelColor=0a0a0a)
+&nbsp;
+![18 Forks](https://img.shields.io/badge/18_FORKS-PROPAGATED-7c3aed?style=for-the-badge&labelColor=0a0a0a)
+&nbsp;
+![25 Repos](https://img.shields.io/badge/25_REPOS-ACTIVE_CHANNELS-00d4ff?style=for-the-badge&labelColor=0a0a0a)
+&nbsp;
+![7+ Years](https://img.shields.io/badge/7+_YEARS-ON_AIR-00ff87?style=for-the-badge&labelColor=0a0a0a)
 
 <br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=mukul975&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies" width="700" />
+<img src="https://streak-stats.demolab.com/?user=mukul975&theme=transparent&hide_border=true&background=0a0a0a&ring=00d4ff&fire=7c3aed&currStreakLabel=00d4ff&sideLabels=00d4ff&currStreakNum=00d4ff&sideNums=00d4ff&dates=888888" alt="GitHub Streak" />
 
-</div>
+<br><br>
+
+
+<img src="https://github-profile-trophy.vercel.app/?username=mukul975&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies" width="700" />
+
+<br><br>
+
+> *The contribution graph below is not a streak — it's a waveform. Every green square is a broadcast. The signal doesn't stop.*
 
 <br>
 
-> **AGGREGATE ASSESSMENT:** 44 confirmed assets (stars) · 18 forks propagated · 25 known repositories · Contribution pattern indicates sustained, disciplined output with no signs of deceleration. The subject does not take breaks. He takes positions.
+### `SIGNAL WAVEFORM // CONTRIBUTION FREQUENCY VISUALIZATION`
 
-</details>
-
----
-
-<!-- ████████████████████████████████████████████████████████ -->
-<!-- █  SECTION 8: EVIDENCE TRACKER                         █ -->
-<!-- ████████████████████████████████████████████████████████ -->
-
-<details>
-<summary><b>▶ &nbsp; SECTION 08 — EVIDENCE TRACKER &nbsp; [CLICK TO DECLASSIFY]</b></summary>
 <br>
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mukul975&theme=tokyo-night&bg_color=0d1117&color=ff4444&line=ff4444&point=ffffff&hide_border=true&area=true" alt="Activity Graph" width="800" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mukul975&theme=tokyo-night&bg_color=0a0a0a&color=00d4ff&line=7c3aed&point=00ff87&hide_border=true&area=true&area_color=7c3aed" alt="Activity Graph" width="800" />
 
 <br><br>
 
@@ -436,77 +354,78 @@
 
 </div>
 
-</details>
-
 ---
 
-<!-- ████████████████████████████████████████████████████████ -->
-<!-- █  SECTION 9: CONTACT PROTOCOL                         █ -->
-<!-- ████████████████████████████████████████████████████████ -->
+## `> FREQ BAND 06 // VISUAL RECON`
 
-## `> CONTACT PROTOCOL — SECURE CHANNELS`
-
-```
-┌─────────────────────────────────────────────────────────┐
-│                                                         │
-│  ██  DECLASSIFICATION NOTICE  ██                        │
-│                                                         │
-│  This dossier has been partially declassified           │
-│  under Directive ████-27B for the purpose of            │
-│  professional engagement and collaboration.             │
-│                                                         │
-│  The subject has been assessed as:                      │
-│  OPEN TO STRATEGIC ALLIANCES                            │
-│                                                         │
-│  Authorized contact channels listed below.              │
-│                                                         │
-│  PROTOCOL: Direct approach recommended.                 │
-│  Subject responds to specific, well-researched          │
-│  inquiries. Generic outreach will be ████████.          │
-│                                                         │
-│  ─────────────────────────────────────────────────────  │
-│                                                         │
-│  FILE STATUS:  OPEN — UNDER ACTIVE SURVEILLANCE         │
-│  LAST UPDATED: 2026-02-28                               │
-│  NEXT REVIEW:  ████████                                 │
-│  ANALYST:      [REDACTED]                               │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
-```
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/contact%40mahipal.engineer-0d1117?style=for-the-badge&logo=gmail&logoColor=ff4444)](mailto:contact@mahipal.engineer)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mahipal975-0d1117?style=for-the-badge&logo=linkedin&logoColor=ff4444)](https://www.linkedin.com/in/mahipal975/)
-&nbsp;
-[![Website](https://img.shields.io/badge/mahipal.engineer-0d1117?style=for-the-badge&logo=googlechrome&logoColor=ff4444)](https://mahipal.engineer)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-mukul975-0d1117?style=for-the-badge&logo=github&logoColor=ff4444)](https://github.com/mukul975)
-&nbsp;
-[![Calendly](https://img.shields.io/badge/Schedule_Briefing-0d1117?style=for-the-badge&logo=calendly&logoColor=ff4444)](https://calendly.com/mukuljangra5)
-&nbsp;
-[![ORCID](https://img.shields.io/badge/ORCID_Research-0d1117?style=for-the-badge&logo=orcid&logoColor=ff4444)](https://orcid.org/0009-0003-4474-946X)
-
-</div>
-
----
-
-<br>
-
-> *This dossier is maintained by automated intelligence systems and updated with each new commit, publication, or operational deployment. Any resemblance to an actual INTERPOL file is purely ██████████. The subject is, in reality, an engineer who builds things that make machines smarter — and had the audacity to make his GitHub profile look like a classified document.*
->
-> *File No: IC-2025-MJ-0975 | Clearance: Public (Declassified) | Distribution: Unlimited*
+> Between transmissions, the source conducts visual reconnaissance across Berlin.
 
 <br>
 
 <div align="center">
 
-![END OF FILE — INTERPOL CYBER DIVISION](https://capsule-render.vercel.app/api?type=shark&color=0:8b0000,100:0d1117&height=150&section=footer&text=END%20OF%20FILE%20%E2%80%94%20INTERPOL%20CYBER%20DIVISION&fontSize=22&fontColor=ff4444&fontAlignY=45&animation=fadeIn)
+```
+Street photography. Handheld. Available light.
+The same discipline that reads code reads a city —
+patience, framing, waiting for the moment the pattern breaks.
+
+Equipment: [REDACTED] // Post-processing: Adobe Lightroom
+Output: Undisclosed location. Ask in person.
+```
+
+<br>
+
+![Street Photography](https://img.shields.io/badge/Street_Photography-ACTIVE-00d4ff?style=flat-square&labelColor=0a0a0a)
+&nbsp;
+![Coverage](https://img.shields.io/badge/Coverage-Berlin_All_Districts-7c3aed?style=flat-square&labelColor=0a0a0a)
+&nbsp;
+![Adobe Lightroom](https://img.shields.io/badge/Adobe_Lightroom-CONFIRMED-00d4ff?style=flat-square&labelColor=0a0a0a)
 
 </div>
 
-<!-- ██████████████████████████████████████████████████████████████████████████████ -->
-<!-- █  END OF CLASSIFIED DOSSIER — IC-2025-MJ-0975                             █ -->
-<!-- █  DISTRIBUTION: UNLIMITED                                                  █ -->
-<!-- ██████████████████████████████████████████████████████████████████████████████ -->
+---
+
+## `> TUNE IN`
+
+> This signal repeats. It updates with every commit. Fork the frequency. Open an issue. Or just listen.
+
+<br>
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/contact@mahipal.engineer-DIRECT_LINE-0a0a0a?style=for-the-badge&logo=gmail&logoColor=00d4ff)](mailto:contact@mahipal.engineer)
+&nbsp;
+[![Website](https://img.shields.io/badge/mahipal.engineer-BROADCAST-0a0a0a?style=for-the-badge&logo=googlechrome&logoColor=00d4ff)](https://mahipal.engineer)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mahipal975-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=00d4ff)](https://www.linkedin.com/in/mahipal975/)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-mukul975-0a0a0a?style=for-the-badge&logo=github&logoColor=00d4ff)](https://github.com/mukul975)
+&nbsp;
+[![Calendly](https://img.shields.io/badge/Schedule_Briefing-AVAILABLE-0a0a0a?style=for-the-badge&logo=calendly&logoColor=00d4ff)](https://calendly.com/mukuljangra5)
+&nbsp;
+[![ORCID](https://img.shields.io/badge/ORCID_Research-INDEXED-0a0a0a?style=for-the-badge&logo=orcid&logoColor=00d4ff)](https://orcid.org/0009-0003-4474-946X)
+
+<br><br>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
+
+<br><br>
+
+```
+END OF TRANSMISSION // FREQUENCY 975.MHz // BERLIN
+```
+
+<br>
+
+<sub>Signal origin: mukul975 // Encryption: None — the work speaks in the clear.</sub>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00d4ff,50:7c3aed,100:0a0a0a&height=180&section=footer&text=END%20OF%20TRANSMISSION&fontSize=28&fontColor=00d4ff&animation=twinkling" width="100%"/>
+
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- END OF TRANSMISSION // FREQUENCY 975.MHz // BERLIN                        -->
+<!-- Signal origin: mukul975 // Encryption: None                               -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
