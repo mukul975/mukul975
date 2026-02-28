@@ -88,8 +88,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mahipal975-0d1117?style=for-the-badge&logo=linkedin&logoColor=ff4444)](https://www.linkedin.com/in/mahipal975/)
 &nbsp;
-[![Twitter](https://img.shields.io/badge/Twitter-%40Mukul__jangra-0d1117?style=for-the-badge&logo=twitter&logoColor=ff4444)](https://twitter.com/Mukul_jangra)
-&nbsp;
 [![Email](https://img.shields.io/badge/contact%40mahipal.engineer-0d1117?style=for-the-badge&logo=gmail&logoColor=ff4444)](mailto:contact@mahipal.engineer)
 &nbsp;
 [![Website](https://img.shields.io/badge/mahipal.engineer-0d1117?style=for-the-badge&logo=googlechrome&logoColor=ff4444)](https://mahipal.engineer)
@@ -356,7 +354,6 @@
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/SURVEILLANCE_FEED-Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=ff4444)](https://www.instagram.com/_mukul.jangra_/)
 
 </div>
 
@@ -378,12 +375,12 @@
 <tr>
 <td width="50%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mukul975&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=ff4444&icon_color=ff4444" alt="GitHub Stats" width="400" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=mukul975&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=ff4444&icon_color=ff4444" alt="GitHub Stats" width="400" />
 
 </td>
 <td width="50%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukul975&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117&title_color=ff4444" alt="Top Languages" width="400" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mukul975&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117&title_color=ff4444" alt="Top Languages" width="400" />
 
 </td>
 </tr>
@@ -473,10 +470,6 @@
 
 <br>
 
-[![Twitter](https://img.shields.io/badge/Twitter-%40Mukul__jangra-0d1117?style=for-the-badge&logo=twitter&logoColor=ff4444)](https://twitter.com/Mukul_jangra)
-&nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-_mukul.jangra_-0d1117?style=for-the-badge&logo=instagram&logoColor=ff4444)](https://www.instagram.com/_mukul.jangra_/)
-&nbsp;
 [![Calendly](https://img.shields.io/badge/Schedule_Briefing-0d1117?style=for-the-badge&logo=calendly&logoColor=ff4444)](https://calendly.com/mukuljangra5)
 &nbsp;
 [![ORCID](https://img.shields.io/badge/ORCID_Research-0d1117?style=for-the-badge&logo=orcid&logoColor=ff4444)](https://orcid.org/0009-0003-4474-946X)
